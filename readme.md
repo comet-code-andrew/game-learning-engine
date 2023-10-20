@@ -23,15 +23,6 @@ Replace 'node' with 'latest' for `nvm-windows`.
 
 ## Getting Started
 
-You can clone this repository or use [degit](https://github.com/Rich-Harris/degit) to scaffold the project like this:
-
-```bash
-npx degit https://github.com/ourcade/phaser3-vite-template my-folder-name
-cd my-folder-name
-
-npm install
-```
-
 Start development server:
 
 ```
@@ -111,3 +102,16 @@ Change 8000 to whatever you want.
 
 [MIT License](https://github.com/ourcade/phaser3-vite-template/blob/master/LICENSE)
 # game-learning-engine
+
+
+## Want to create your own game?
+
+You can clone this repository or use [degit](https://github.com/Rich-Harris/degit) to scaffold the project like this:
+
+```bash
+npx degit https://github.com/ourcade/phaser3-vite-template my-folder-name
+cd my-folder-name
+
+npm install
+```
+
